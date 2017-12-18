@@ -1,0 +1,14 @@
+1)
+5 times (1 + 2 + 4 + 8 + 15)
+
+2)
+process 2 will be taken, since the scheduler values recent runtimes more than distant ones.
+
+3)
+I/O bound processes(e. g. your browser) almost always have a user interface and have to react rather quickly to input, 
+while CPU bound processes(e. g. a virus scanner) don't have to have such high priority, since they can run in the background while there is time for them.
+  
+4)
+35/50 + 20/100 + 10/200 + x/ 250 = 1
+
+x = 12,5
